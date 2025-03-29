@@ -4,7 +4,7 @@
 
 <h1 align="center">Imperium Services 🚀</h1>
 <p align="center">
-  We (Imperium Services) are dedicated to cybersecurity, general web and software development.
+  We (Imperium Services) develop system and security-based software.
 </p>
 
 <p align="center">
@@ -15,20 +15,3 @@
     <img height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </p>
-
----
-
-## 📖 What We Develop
-
-We develop projects both related to cybersecurity and some other miscellaneous software including:
-- VPNs and Proxies.
-
----
-
-## 🌳 Our Branches
-
-We do more than just cybersecurity, and because of that, we divide our goals into different branch companies. Including:
-
-- 🎮 LudusGames
-- 🔓 Lazarus Education
-- 🤷‍♂️ TLabs
